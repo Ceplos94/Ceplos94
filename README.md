@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on webdev
 - 📫 How to reach me by e-mail: ceplosbusuk@gmail.com
 - 😄 Pronouns: Mr/He
-- ⚡ Fun fact: Learn Coding Because It My Dream
+- ⚡ Fun fact: I Learn Coding Because It's My Dream
 
 <!---
 Ceplos94/Ceplos94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
