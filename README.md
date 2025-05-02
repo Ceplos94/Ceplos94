@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akim116
+- 👋 Hi, I’m @Akim
 - 👀 I’m interested in in webdev, linux and other programming language
 - 🌱 I’m currently learning javascript,html and css
 - 💞️ I’m looking to collaborate on webdev
